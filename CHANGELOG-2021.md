@@ -1,0 +1,177 @@
+## ZoneOS 21.02.02 (2021-02-10)
+
+  * PHP versions 7.3.27, 7.4.15 and 8.0.2.
+  * Even more fixes in yara.
+  * Minor improvements and software updates.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-antivirus/clamav 0.103.0-r2 -> 0.103.1
+  * app-forensics/yara 4.0.4 -> 4.0.5
+  * dev-lang/php 7.3.26 -> 7.3.27
+  * dev-lang/php 7.4.14 -> 7.4.15
+  * dev-lang/php 8.0.1 -> 8.0.2
+  * dev-php/blackfire 1.49.0 -> 1.49.1
+  * dev-php/pecl-redis 5.3.2 -> 5.3.3
+  * dev-vcs/git 2.30.0 -> 2.30.1
+  * net-libs/nodejs 14.15.4 -> 14.15.5
+  * sys-kernel/zoneos-kernel 4.19.172 -> 4.19.175
+</details>
+
+## ZoneOS 21.02.00 (2021-02-01)
+
+  * Several out-of-bounds reads fixed in yara.
+  * Several security fixes in python versions – CVE-2021-3177 and CVE-2020-26116 (2.7 only).
+  * Minor improvements and software updates.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-forensics/yara 4.0.3 -> 4.0.4
+  * dev-lang/python 2.7.18-r5 -> 2.7.18-r6
+  * dev-lang/python 3.6.12-r1 -> 3.6.12-r2
+  * dev-lang/python 3.8.6-r1 -> 3.8.7-r1
+  * media-gfx/imagemagick 7.0.10.60 -> 7.0.10.61
+  * sys-kernel/zoneos-kernel 4.19.170 -> 4.19.172
+
+  ### Added
+
+  * dev-libs/cjose 0.6.1
+  * www-apache/mod_auth_openidc 2.4.5
+</details>
+
+## ZoneOS 21.01.02 (2021-01-27)
+
+  * Out-of-bounds read fixed in yara.
+  * Minor improvements and software updates.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-forensics/yara 4.0.2-r1 -> 4.0.3
+  * dev-php/blackfire 1.48.1 -> 1.49.0
+  * dev-php/newrelic 9.15.0.293 -> 9.16.0.295
+  * media-gfx/imagemagick 7.0.10.58 -> 7.0.10.60
+  * sys-kernel/zoneos-kernel 4.19.168 -> 4.19.170
+</details>
+
+## ZoneOS 21.01.01 (2021-01-20)
+
+Minor improvements and software updates.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * media-gfx/imagemagick 7.0.10.56 -> 7.0.10.58
+  * sys-kernel/zoneos-kernel 4.19.165 -> 4.19.168
+</details>
+
+## ZoneOS 21.01.00 (2021-01-01)
+
+- **IMPORTANT! Bash is upgraded from version 4.3_p48 to 5.0_p18.**
+- PHP versions updated to 7.3.26, 7.4.14 and 8.0.1.
+- Nodejs updated to version 14.15.4.
+- Git updated to version 2.30.0.
+- Subversion updated to version 1.14.0.
+- Glibc updated to 2.32.
+- Ffmpeg updated to 4.3.1.
+
+<details>
+  <summary>Detailed List of version changes</summary>
+
+  ### Changes
+
+  * app-antivirus/clamav 0.102.4-r1 -> 0.103.0-r2
+  * app-arch/lz4 1.9.2 -> 1.9.3
+  * app-arch/tar 1.32 -> 1.32-r1
+  * app-arch/zstd 1.4.4-r4 -> 1.4.5
+  * app-crypt/pinentry 1.1.0-r2 -> 1.1.0-r3
+  * app-editors/nano 4.9.3 -> 5.3-r1
+  * app-forensics/yara 4.0.2 -> 4.0.2-r1
+  * app-misc/mc 4.8.24 -> 4.8.25-r1
+  * app-shells/bash 4.3_p48-r2 -> 5.0_p18
+  * app-text/ghostscript-gpl 9.52-r1 -> 9.53.3-r4
+  * app-text/poppler 0.90.1 -> 20.11.0
+  * app-text/poppler-data 0.4.9 -> 0.4.10
+  * app-text/qpdf 9.0.2 -> 10.0.4
+  * dev-db/mariadb-connector-c 3.1.10 -> 3.1.11
+  * dev-db/postgresql 12.4 -> 12.5
+  * dev-db/unixODBC 2.3.5-r1 -> 2.3.9
+  * dev-lang/luajit 2.0.5-r2 -> 2.0.5-r3
+  * dev-lang/php 7.3.25 -> 7.3.26
+  * dev-lang/php 7.4.13 -> 7.4.14
+  * dev-lang/php 8.0.0 -> 8.0.1
+  * dev-lang/python 2.7.18-r4 -> 2.7.18-r5
+  * dev-lang/python 3.6.12 -> 3.6.12-r1
+  * dev-lang/python 3.8.5 -> 3.8.6-r1
+  * dev-libs/boost 1.72.0-r2 -> 1.74.0-r1
+  * dev-libs/expat 2.2.8 -> 2.2.10
+  * dev-libs/jansson 2.13.1 -> 2.13.1-r1
+  * dev-libs/libev 4.31 -> 4.33
+  * dev-libs/libgit2 1.0.1-r1 -> 1.1.0-r2
+  * dev-libs/libusb 1.0.21-r1 -> 1.0.23-r1
+  * dev-libs/libverto 0.2.5-r1 -> 0.3.1-r1
+  * dev-libs/libxml2 2.9.10-r3 -> 2.9.10-r4
+  * dev-libs/libxslt 1.1.34 -> 1.1.34-r1
+  * dev-libs/lzo 2.09 -> 2.10
+  * dev-libs/oniguruma 6.9.4 -> 6.9.6-r1
+  * dev-libs/protobuf 3.12.4 -> 3.13.0
+  * dev-php/blackfire 1.46.3 -> 1.48.1
+  * dev-php/newrelic 9.14.0.290 -> 9.15.0.293
+  * dev-php/pecl-xdebug 3.0.1 -> 3.0.2
+  * dev-vcs/git 2.29.2 -> 2.30.0
+  * dev-vcs/subversion 1.12.2 -> 1.14.0-r1
+  * mail-mta/postfix 3.3.14 -> 3.3.15
+  * media-gfx/imagemagick 7.0.10.48 -> 7.0.10.56
+  * media-gfx/pngquant 2.12.5 -> 2.13.1
+  * media-libs/fontconfig 2.13.0-r4 -> 2.13.1-r2
+  * media-libs/jbig2dec 0.18 -> 0.19
+  * media-libs/libjpeg-turbo 2.0.5-r2 -> 2.0.6
+  * media-libs/mesa 20.1.10 -> 20.2.4
+  * media-libs/openjpeg 2.3.1-r1 -> 2.4.0
+  * media-libs/opus 1.3 -> 1.3.1-r1
+  * media-libs/x264 0.0.20190214 -> 0.0.20190903-r1
+  * media-video/ffmpeg 4.2.4 -> 4.3.1
+  * net-libs/libtirpc 1.0.2-r1 -> 1.2.6
+  * net-libs/nodejs 14.15.1 -> 14.15.4
+  * net-misc/memcached 1.6.8 -> 1.6.9
+  * net-nds/openldap 2.4.46 -> 2.4.56
+  * sys-apps/diffutils 3.7 -> 3.7-r1
+  * sys-apps/gawk 5.0.1 -> 5.1.0
+  * sys-apps/sed 4.7 -> 4.8
+  * sys-devel/make 4.2.1-r4 -> 4.3
+  * sys-kernel/zoneos-kernel 4.19.163 -> 4.19.165
+  * sys-libs/db 5.3.28-r2 -> 5.3.28-r4
+  * sys-libs/gdbm 1.13-r2 -> 1.18.1-r1
+  * sys-libs/glibc 2.30-r8 -> 2.32-r3
+  * sys-process/htop 2.2.0 -> 3.0.2
+  * x11-libs/gdk-pixbuf 2.38.1-r1 -> 2.42.2
+  * x11-libs/libX11 1.6.12 -> 1.7.0
+  * x11-libs/libXau 1.0.8-r1 -> 1.0.9-r1
+  * x11-libs/libXdmcp 1.1.2-r2 -> 1.1.3
+  * x11-libs/libXext 1.3.3-r1 -> 1.3.4
+  * x11-libs/libXtst 1.2.3-r1 -> 1.2.3-r2
+  * x11-libs/libdrm 2.4.102 -> 2.4.103
+  * x11-libs/libxshmfence 1.3-r1 -> 1.3-r2
+
+  ### Added
+
+  * app-arch/p7zip 16.02-r4
+  * dev-libs/tomsfastmath 0.13.1
+  * media-libs/dav1d 0.8.0
+  * net-libs/gnutls 3.6.15
+  * www-apache/modsec-sdbm-util 20181217
+
+  ### Removed
+
+  * dev-php/pecl-redis 3.1.6
+</details>
