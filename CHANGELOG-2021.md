@@ -1,3 +1,23 @@
+## ZoneOS 21.03.00 (2021-03-01)
+
+  * Openssl 1.1.1j with fixes for CVE-2021-23840 and CVE-2021-23841.
+  * NodeJS 14.16.0 with fixes for CVE-2021-23840, CVE-2021-22883 and CVE-2021-22884.
+  * MariaDB versions 10.3.28 and 10.4.18.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-db/mariadb 10.3.27 -> 10.3.28
+  * dev-db/mariadb 10.4.17 -> 10.4.18
+  * dev-libs/openssl 1.1.1i -> 1.1.1j
+  * dev-php/pecl-xdebug 3.0.2 -> 3.0.3
+  * media-gfx/imagemagick 7.0.10.61 -> 7.0.11.1
+  * net-libs/nodejs 14.15.5 -> 14.16.0
+  * sys-kernel/zoneos-kernel 4.19.175 -> 4.19.177
+</details>
+
 ## ZoneOS 21.02.02 (2021-02-10)
 
   * PHP versions 7.3.27, 7.4.15 and 8.0.2.
