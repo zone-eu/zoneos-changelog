@@ -1,3 +1,21 @@
+## ZoneOS 21.03.01 (2021-03-10)
+
+  * PHP versions 7.4.16 and 8.0.3.
+  * Git version 2.30.2 fixes CVE-2021-21300.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-lang/php 7.4.15 -> 7.4.16
+  * dev-lang/php 8.0.2 -> 8.0.3
+  * dev-vcs/git 2.30.1 -> 2.30.2
+  * media-gfx/imagemagick 7.0.11.1 -> 7.0.11.3
+  * net-dns/bind-tools 9.16.7 -> 9.16.12
+  * sys-kernel/zoneos-kernel 4.19.177 -> 4.19.179
+</details>
+
 ## ZoneOS 21.03.00 (2021-03-01)
 
   * Openssl 1.1.1j with fixes for CVE-2021-23840 and CVE-2021-23841.
