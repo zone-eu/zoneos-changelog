@@ -1,3 +1,20 @@
+## ZoneOS 21.03.02 (2021-03-26)
+
+  * OpenSSL version 1.1.1k fixes CVE-2021-3449 and CVE-2021-3450.
+  * PHP version 5.6 gets some security and crash fixes.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-libs/openssl 1.1.1j -> 1.1.1k
+  * dev-php/blackfire 1.49.1 -> 1.53.0
+  * dev-php/sourceguardian 11.4.1-r1 -> 12.0
+  * media-gfx/imagemagick 7.0.11.3 -> 7.0.11.4
+  * sys-kernel/zoneos-kernel 4.19.179 -> 4.19.183
+</details>
+
 ## ZoneOS 21.03.01 (2021-03-10)
 
   * PHP versions 7.4.16 and 8.0.3.
