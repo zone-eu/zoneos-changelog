@@ -1,3 +1,123 @@
+## ZoneOS 21.05.01 (2021-05-10)
+
+  * New mariadb versions (10.3.29 and 10.4.19).
+  * Hotfix PHP releases (7.4.19 and 8.0.6).
+  * Security fixes to all Python releases.
+  * PHP 8.0 support for Newrelic PHP module.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-arch/unzip 6.0_p25-r1 -> 6.0_p26
+  * dev-db/mariadb 10.3.28 -> 10.3.29
+  * dev-db/mariadb 10.4.18 -> 10.4.19
+  * dev-lang/php 7.4.18 -> 7.4.19
+  * dev-lang/php 8.0.5 -> 8.0.6
+  * dev-lang/python 2.7.18_p8 -> 2.7.18_p9
+  * dev-lang/python 3.6.13_p1 -> 3.6.13_p3
+  * dev-lang/python 3.8.8_p1 -> 3.8.9_p2
+  * dev-php/blackfire 1.56.1 -> 1.57.0
+  * dev-php/newrelic 9.16.0.295 -> 9.17.1.301
+  * media-gfx/imagemagick 7.0.11.10 -> 7.0.11.11
+  * media-gfx/libimagequant 2.12.3 -> 2.14.0
+  * sys-kernel/zoneos-kernel 5.10.34 -> 5.10.35
+</details>
+
+## ZoneOS 21.05.00 (2021-05-04)
+
+  * PHP versions 7.3.28, 7.4.18 and 8.0.5.
+  * Redis version 6.0.13 (fixes CVE-2021-29477).
+  * OpenSSH is update to version 8.6_p1.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-forensics/yara 4.0.5 -> 4.1.0
+  * app-text/qpdf 10.1.0 -> 10.3.1
+  * dev-db/redis 6.0.12 -> 6.0.13
+  * dev-lang/php 7.3.27 -> 7.3.28
+  * dev-lang/php 7.4.16 -> 7.4.18
+  * dev-lang/php 8.0.3 -> 8.0.5
+  * dev-php/pecl-redis 5.3.3 -> 5.3.4
+  * media-gfx/imagemagick 7.0.11.8 -> 7.0.11.10
+  * media-libs/lcms 2.11 -> 2.12
+  * net-misc/openssh 8.4_p1-r3 -> 8.6_p1-r1
+  * sys-apps/file 5.39-r4 -> 5.40-r2
+  * sys-kernel/zoneos-kernel 5.10.32 -> 5.10.34
+  * sys-process/htop 3.0.2 -> 3.0.5
+</details>
+
+## ZoneOS 21.04.01 (2021-04-23)
+
+  * Security updates to legacy PHP versions.
+  * Security updates to all python versions.
+  * Tmux is updated to version 3.2.
+  * Curl is updated to version 7.76.1.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-arch/unrar 6.0.3 -> 6.0.4
+  * app-misc/tmux 3.1c -> 3.2
+  * dev-lang/php 7.0.33-r6 -> 7.0.33-r7
+  * dev-lang/php 7.1.33 -> 7.1.33-r1
+  * dev-lang/python 2.7.18_p7 -> 2.7.18_p8
+  * dev-lang/python 3.6.13 -> 3.6.13_p1
+  * dev-lang/python 3.8.8 -> 3.8.8_p1
+  * dev-php/blackfire 1.53.0 -> 1.56.1
+  * dev-php/maxminddb 1.5.0 -> 1.6.0
+  * media-gfx/imagemagick 7.0.11.6 -> 7.0.11.8
+  * net-misc/curl 7.74.0-r2 -> 7.76.1
+  * sys-apps/util-linux 2.35.2 -> 2.36.2
+  * sys-kernel/zoneos-kernel 5.10.29 -> 5.10.32
+</details>
+
+## ZoneOS 21.04.00 (2021-04-13)
+
+  * Switched to LTS kernel 5.10.
+  * Nodejs updated to version 14.16.1.
+  * Git updated to version 2.31.1.
+  * Security updates to all python versions.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-arch/tar 1.32-r1 -> 1.34
+  * app-arch/unrar 5.9.4 -> 6.0.3
+  * app-arch/zstd 1.4.5 -> 1.4.9
+  * app-crypt/gnupg 2.2.20-r2 -> 2.2.27
+  * app-editors/vim 8.2.0360 -> 8.2.0814-r100
+  * app-misc/mc 4.8.25-r1 -> 4.8.26-r1
+  * app-text/poppler 20.11.0 -> 21.02.0
+  * app-text/qpdf 10.0.4 -> 10.1.0
+  * dev-db/freetds 1.00.558 -> 1.2.18
+  * dev-db/mariadb-connector-c 3.1.11 -> 3.1.12
+  * dev-db/redis 6.0.9 -> 6.0.12
+  * dev-db/sqlite 3.33.0 -> 3.34.1
+  * dev-lang/python 2.7.18-r6 -> 2.7.18_p7
+  * dev-lang/python 3.6.12-r2 -> 3.6.13
+  * dev-lang/python 3.8.7-r1 -> 3.8.8
+  * dev-php/pecl-gnupg 1.4.0-r3 -> 1.5.0
+  * dev-php/pecl-mongodb 1.9.0 -> 1.9.1
+  * dev-vcs/git 2.30.2 -> 2.31.1
+  * media-gfx/gifsicle 1.91 -> 1.92
+  * media-gfx/imagemagick 7.0.11.4 -> 7.0.11.6
+  * media-libs/dav1d 0.8.0 -> 0.8.2
+  * media-libs/gd 2.3.0 -> 2.3.1
+  * media-libs/tiff 4.1.0 -> 4.2.0
+  * media-video/ffmpeg 4.3.1 -> 4.3.2
+  * net-libs/nodejs 14.16.0 -> 14.16.1
+  * sys-kernel/zoneos-kernel 4.19.183 -> 5.10.29
+</details>
+
 ## ZoneOS 21.03.02 (2021-03-26)
 
   * OpenSSL version 1.1.1k fixes CVE-2021-3449 and CVE-2021-3450.
