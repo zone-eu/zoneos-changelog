@@ -1,3 +1,18 @@
+## ZoneOS 21.05.02 (2021-05-17)
+
+  * Nodejs updated to version 14.17.0.
+  * Reverted kernel to 4.19 LTS series.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * media-gfx/imagemagick 7.0.11.11 -> 7.0.11.12
+  * net-libs/nodejs 14.16.1 -> 14.17.0
+  * sys-kernel/zoneos-kernel 5.10.35 -> 4.19.190
+</details>
+
 ## ZoneOS 21.05.01 (2021-05-10)
 
   * New mariadb versions (10.3.29 and 10.4.19).
