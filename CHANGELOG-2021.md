@@ -1,3 +1,44 @@
+## ZoneOS 21.06.00 (2021-06-07)
+
+  * PHP versions 7.4.20 and 8.0.7
+  * Curl 7.77.0 fixing CVE-2021-22897, CVE-2021-22898 and CVE-2021-22901.
+  * Redis 6.0.14 fixing CVE-2021-32625.
+  * Apache httpd version 2.4.48.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-arch/unrar 6.0.4 -> 6.0.5
+  * app-editors/nano 5.3-r1 -> 5.6.1
+  * dev-db/redis 6.0.13-r1 -> 6.0.14
+  * dev-lang/php 7.4.19 -> 7.4.20
+  * dev-lang/php 8.0.6 -> 8.0.7
+  * dev-libs/expat 2.2.10 -> 2.4.1
+  * dev-libs/icu 67.1 -> 69.1
+  * dev-libs/libcroco 0.6.13 -> 0.6.13-r1
+  * dev-libs/libmaxminddb 1.5.2 -> 1.6.0
+  * dev-libs/libpcre2 10.35 -> 10.36-r1
+  * dev-libs/libxml2 2.9.10-r5 -> 2.9.12-r2
+  * dev-php/blackfire 1.57.0 -> 1.59.2
+  * media-gfx/imagemagick 7.0.11.12 -> 7.0.11.14
+  * media-libs/gd 2.3.1 -> 2.3.2
+  * media-libs/libjpeg-turbo 2.0.6 -> 2.1.0-r1
+  * media-libs/libogg 1.3.4 -> 1.3.4-r1
+  * media-libs/tiff 4.2.0 -> 4.3.0
+  * media-video/ffmpeg 4.3.2 -> 4.4
+  * net-misc/curl 7.76.1 -> 7.77.0
+  * net-misc/wget 1.20.3-r3 -> 1.21.1
+  * net-misc/whois 5.5.6-r1 -> 5.5.9
+  * sys-apps/findutils 4.7.0 -> 4.8.0
+  * sys-apps/less 563-r1 -> 581.2
+  * sys-apps/net-tools 1.60_p20180626073013 -> 2.10
+  * sys-kernel/zoneos-kernel 4.19.190 -> 4.19.193
+  * sys-process/psmisc 23.3-r1 -> 23.4-r1
+  * www-servers/apache 2.4.46 -> 2.4.48
+</details>
+
 ## ZoneOS 21.05.02 (2021-05-17)
 
   * Nodejs updated to version 14.17.0.
