@@ -1,3 +1,40 @@
+## ZoneOS 21.07.00 (2021-07-02)
+
+  * **IMPORTANT! Python 2.7 and 3.6 versions will be removed soon, please migrate to 3.8.**
+  * PHP versions 7.3.29, 7.4.21 and 8.0.8.
+  * MariaDB versions 10.3.30 and 10.4.20.
+  * Security fixes to all Python versions.
+  * PHP 8.x support for PECL imagick module.
+  * Nodejs 14.17.2 fixing CVE-2021-22918.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-antivirus/clamav 0.103.2 -> 0.103.3
+  * dev-db/mariadb 10.3.29 -> 10.3.30
+  * dev-db/mariadb 10.4.19 -> 10.4.20
+  * dev-lang/php 7.3.28 -> 7.3.29
+  * dev-lang/php 7.4.20 -> 7.4.21
+  * dev-lang/php 8.0.7 -> 8.0.8
+  * dev-lang/python 2.7.18_p9 -> 2.7.18_p10
+  * dev-lang/python 3.6.13_p3 -> 3.6.13_p5
+  * dev-lang/python 3.8.9_p2 -> 3.8.10_p2
+  * dev-php/blackfire 1.59.2 -> 1.62.0
+  * dev-php/pecl-imagick 3.4.4-r1 -> 3.5.0
+  * dev-php/sourceguardian 12.0 -> 12.1
+  * dev-vcs/git 2.31.1 -> 2.32.0
+  * media-gfx/imagemagick 7.0.11.14 -> 7.1.0.2
+  * media-gfx/libimagequant 2.14.0 -> 2.15.1
+  * media-libs/libjpeg-turbo 2.1.0-r1 -> 2.1.0-r2
+  * net-dns/bind-tools 9.16.12 -> 9.16.18
+  * net-dns/libidn 1.36 -> 1.37
+  * net-dns/libidn2 2.3.0 -> 2.3.1
+  * net-libs/nodejs 14.17.0 -> 14.17.2
+  * sys-kernel/zoneos-kernel 4.19.193 -> 4.19.196
+</details>
+
 ## ZoneOS 21.06.00 (2021-06-07)
 
   * PHP versions 7.4.20 and 8.0.7
