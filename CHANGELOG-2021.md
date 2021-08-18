@@ -1,3 +1,53 @@
+## ZoneOS 21.08.01 (2021-08-18)
+
+  * Hotfixes and kernel 4.19.204.
+
+## ZoneOS 21.08.00 (2021-08-12)
+
+  * Nodejs 14.17.5 fixing CVE-2021-3672, CVE-2021-22931, CVE-2021-22930 and CVE-2021-22939.
+  * Added PHP 8.1.0beta2.
+  * PHP versions 7.4.22 and 8.0.9.
+  * MariaDB versions 10.3.31 and 10.4.21.
+  * Curl 7.78.0.
+  * Redis 6.2.5.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-arch/pigz 2.4-r1 -> 2.6
+  * app-arch/unrar 6.0.5 -> 6.0.7
+  * app-arch/xz-utils 5.2.5 -> 5.2.5-r1
+  * app-arch/zstd 1.4.9 -> 1.5.0
+  * app-crypt/gpgme 1.14.0 -> 1.15.1
+  * app-crypt/mit-krb5 1.18.2-r3 -> 1.19.2
+  * app-text/htmltidy 20090325-r2 -> 0.99.0
+  * dev-db/mariadb 10.3.30 -> 10.3.31
+  * dev-db/mariadb 10.4.20 -> 10.4.21
+  * dev-db/mariadb-connector-c 3.1.12 -> 3.1.13
+  * dev-db/redis 6.0.14 -> 6.2.5
+  * dev-db/sqlite 3.34.1 -> 3.35.5
+  * dev-lang/php 7.4.21 -> 7.4.22
+  * dev-lang/php 8.0.8 -> 8.0.9
+  * dev-lang/python 2.7.18_p10 -> 2.7.18_p11
+  * dev-lang/python 3.6.13_p5 -> 3.6.14
+  * dev-lang/python 3.8.10_p2 -> 3.8.11
+  * dev-libs/libpcre 8.44 -> 8.45
+  * dev-libs/libuv 1.41.0 -> 1.41.1
+  * dev-libs/libzip 1.7.3-r1 -> 1.8.0
+  * dev-libs/protobuf 3.15.8 -> 3.17.3
+  * dev-php/igbinary 3.1.6 -> 3.2.6
+  * media-gfx/imagemagick 7.1.0.2 -> 7.1.0.4
+  * media-libs/libogg 1.3.4-r1 -> 1.3.5
+  * net-libs/nghttp2 1.41.0-r2 -> 1.43.0-r2
+  * net-libs/nodejs 14.17.2 -> 14.17.5
+  * net-misc/curl 7.77.0-r1 -> 7.78.0
+  * net-misc/whois 5.5.9 -> 5.5.9-r1
+  * sys-kernel/zoneos-kernel 4.19.198 -> 4.19.202
+  * sys-libs/glibc 2.32-r7 -> 2.33-r5
+</details>
+
 ## ZoneOS 21.07.00 (2021-07-02)
 
   * **IMPORTANT! Python 2.7 and 3.6 versions will be removed soon, please migrate to 3.8.**
