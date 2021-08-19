@@ -1,3 +1,7 @@
+## ZoneOS 21.08.02 (2021-08-18)
+
+  * Restore NTLM support in curl.
+
 ## ZoneOS 21.08.01 (2021-08-18)
 
   * Hotfixes and kernel 4.19.204.
