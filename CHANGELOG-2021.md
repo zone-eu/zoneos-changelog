@@ -4,6 +4,7 @@
 
 ## ZoneOS 21.08.01 (2021-08-18)
 
+  * Fixes crontab e-mail headers.
   * Hotfixes and kernel 4.19.204.
 
 ## ZoneOS 21.08.00 (2021-08-12)
