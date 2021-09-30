@@ -28,6 +28,7 @@
   * sys-apps/util-linux 2.36.2-r1 -> 2.37.2-r1
   * sys-kernel/zoneos-kernel 4.19.206 -> 4.19.208
   * www-servers/apache 2.4.48 -> 2.4.49
+</details>
 
 ## ZoneOS 21.09.00 (2021-09-08)
 
