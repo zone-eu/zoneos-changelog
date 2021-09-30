@@ -1,3 +1,65 @@
+## ZoneOS 21.09.01 (2021-09-28)
+
+  * PHP versions 7.3.31, 7.4.24 and 8.0.11 fixing CVE-2021-21706.
+  * Curl 7.79.1 fixing CVE-2021-22945, CVE-2021-22946 and CVE-2021-22947.
+  * Apache 2.4.49 fixing CVE-2021-33193, CVE-2021-34798, CVE-2021-36160, CVE-2021-39275 and CVE-2021-40438.
+  * PHP 8.1.0 RC2.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-lang/php 7.3.30 -> 7.3.31
+  * dev-lang/php 7.4.23 -> 7.4.24
+  * dev-lang/php 8.0.10 -> 8.0.11
+  * dev-lang/php 8.1.0_rc1 -> 8.1.0_rc2
+  * dev-lang/python 2.7.18_p11 -> 2.7.18_p13
+  * dev-lang/python 3.6.14 -> 3.6.14_p1
+  * dev-lang/python 3.8.11 -> 3.8.12
+  * dev-php/blackfire 1.66.0 -> 1.67.0
+  * media-gfx/imagemagick 7.1.0.5 -> 7.1.0.8
+  * media-libs/libjpeg-turbo 2.1.0-r2 -> 2.1.1-r2
+  * net-libs/nghttp2 1.43.0-r2 -> 1.44.0-r1
+  * net-misc/curl 7.78.0 -> 7.79.1
+  * sys-apps/diffutils 3.7-r1 -> 3.8
+  * sys-apps/grep 3.5 -> 3.7
+  * sys-apps/less 581.2 -> 590
+  * sys-apps/util-linux 2.36.2-r1 -> 2.37.2-r1
+  * sys-kernel/zoneos-kernel 4.19.206 -> 4.19.208
+  * www-servers/apache 2.4.48 -> 2.4.49
+
+## ZoneOS 21.09.00 (2021-09-08)
+
+  * PHP versions 7.3.30, 7.4.23, 8.0.10 and 8.1.0 RC1.
+  * OpenSSL version 1.1.1l fixing CVE-2021-3711 and CVE-2021-3712.
+  * Nodejs version 14.17.6 fixing CVE-2021-37701, CVE-2021-37712, CVE-2021-37713, CVE-2021-39134 and CVE-2021-39135.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-forensics/yara 4.1.1 -> 4.1.2
+  * dev-lang/php 7.3.29 -> 7.3.30
+  * dev-lang/php 7.4.22 -> 7.4.23
+  * dev-lang/php 8.0.9 -> 8.0.10
+  * dev-lang/php 8.1.0_beta2 -> 8.1.0_rc1
+  * dev-libs/libgit2 1.1.0-r2 -> 1.1.1
+  * dev-libs/libpcre2 10.36-r1 -> 10.37-r2
+  * dev-libs/openssl 1.1.1k -> 1.1.1l
+  * dev-php/blackfire 1.62.0 -> 1.66.0
+  * dev-php/newrelic 9.17.1.301 -> 9.18.1.303
+  * media-gfx/imagemagick 7.1.0.4 -> 7.1.0.5
+  * net-dns/libidn2 2.3.1 -> 2.3.2
+  * net-libs/gnutls 3.7.1 -> 3.7.2
+  * net-libs/nodejs 14.17.5 -> 14.17.6
+  * net-misc/whois 5.5.9-r1 -> 5.5.10-r1
+  * sys-devel/m4 1.4.18-r2 -> 1.4.19
+  * sys-kernel/zoneos-kernel 4.19.204 -> 4.19.206
+  * sys-libs/timezone-data 2020a -> 2021a-r1
+</details>
+
 ## ZoneOS 21.08.02 (2021-08-18)
 
   * Restore NTLM support in curl.
