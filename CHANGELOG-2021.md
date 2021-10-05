@@ -1,3 +1,13 @@
+## ZoneOS 21.10.01 (2021-10-05)
+
+  * Redis 6.2.6 fixing CVE-2021-32626, CVE-2021-32627, CVE-2021-32628, CVE-2021-32672, CVE-2021-32675, CVE-2021-32687, CVE-2021-32762 and CVE-2021-41099.
+  * Apache 2.4.50 fixing CVE-2021-41524 and CVE-2021-41773.
+
+## ZoneOS 21.10.00 (2021-10-01)
+
+  * PHP version 8.1.0 RC3
+  * Nodejs version 14.18.0
+
 ## ZoneOS 21.09.01 (2021-09-28)
 
   * PHP versions 7.3.31, 7.4.24 and 8.0.11 fixing CVE-2021-21706.
