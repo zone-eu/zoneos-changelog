@@ -1,3 +1,41 @@
+## ZoneOS 21.11.00 (2021-11-09)
+
+  * New Node.js LTS version – 16.13.0
+  * PHP versions 7.3.32, 7.4.25, 8.0.12 and 8.1.0_rc5.
+  * Mariadb versions 10.3.32, 10.4.22 and 10.6.5.
+  * Python 3.6.15. This is a last ZoneOS supporting python 3.6.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-admin/webalizer 2.23.08-r3 -> 2.23.08-r5
+  * app-forensics/yara 4.1.2 -> 4.1.3
+  * app-misc/ca-certificates 3.60 -> 3.71
+  * dev-db/mariadb 10.3.31 -> 10.3.32
+  * dev-db/mariadb 10.4.21 -> 10.4.22
+  * dev-db/mariadb 10.6.4 -> 10.6.5
+  * dev-lang/php 7.3.31 -> 7.3.32
+  * dev-lang/php 7.4.24 -> 7.4.25
+  * dev-lang/php 8.0.11 -> 8.0.12
+  * dev-lang/php 8.1.0_rc3 -> 8.1.0_rc5
+  * dev-lang/python 3.6.14_p1 -> 3.6.15
+  * dev-php/blackfire 1.67.0 -> 1.69.0
+  * dev-php/ioncube 10.4.5 -> 11.0.0
+  * dev-php/maxminddb 1.10.1-r1 -> 1.11.0
+  * dev-php/pecl-mongodb 1.10.0 -> 1.11.1
+  * dev-php/pecl-xdebug 3.1.0 -> 3.1.1
+  * dev-php/sourceguardian 12.1 -> 12.1.2
+  * media-gfx/imagemagick 7.1.0.9 -> 7.1.0.13
+  * net-dns/bind-tools 9.16.18 -> 9.16.22
+  * net-libs/libssh2 1.9.0_p20200614-r1 -> 1.10.0
+  * net-libs/nghttp2 1.44.0-r1 -> 1.45.1-r1
+  * net-libs/nodejs 14.18.0 -> 16.13.0
+  * sys-kernel/zoneos-kernel 4.19.209 -> 4.19.216
+  * www-apache/mod_security 2.9.3-r3 -> 2.9.4
+</details>
+
 ## ZoneOS 21.10.02 (2021-10-07)
 
   * Apache 2.4.51 fixing CVE-2021-42013
