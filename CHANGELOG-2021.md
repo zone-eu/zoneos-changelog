@@ -1,3 +1,46 @@
+## ZoneOS 21.12.01 (2021-12-18)
+
+  * PHP versions 7.4.27, 8.0.14 and 8.1.1.
+  * Kernel version 5.4.167
+
+## ZoneOS 21.12.00 (2021-12-01)
+
+ * Kernel 5.4.163.
+
+## ZoneOS 21.11.02 (2021-11-27)
+
+  * PHP 8.1.0
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-lang/php 8.1.0_rc6 -> 8.1.0
+  * media-gfx/imagemagick 7.1.0.14 -> 7.1.0.16
+  * net-misc/curl 7.79.1 -> 7.80.0
+  * sys-kernel/zoneos-kernel 5.4.160 -> 5.4.162
+</details>
+
+## ZoneOS 21.11.01 (2021-11-18)
+
+  * PHP versions 7.3.33, 7.4.26, 8.0.13 and 8.1.0_rc6
+  * Switch to kernel version 5.4.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-lang/php 7.3.32 -> 7.3.33
+  * dev-lang/php 7.4.25 -> 7.4.26
+  * dev-lang/php 8.0.12 -> 8.0.13
+  * dev-lang/php 8.1.0_rc5 -> 8.1.0_rc6
+  * dev-php/pecl-imagick 3.5.1-r1 -> 3.6.0
+  * media-gfx/imagemagick 7.1.0.13 -> 7.1.0.14
+  * sys-kernel/zoneos-kernel 4.19.216 -> 5.4.160
+</details>
+
 ## ZoneOS 21.11.00 (2021-11-09)
 
   * New Node.js LTS version – 16.13.0
