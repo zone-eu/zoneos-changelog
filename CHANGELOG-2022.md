@@ -1,0 +1,156 @@
+## ZoneOS 22.02.00 (2022-02-01)
+
+  * Added HEIC support into imagemagick
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-vcs/git 2.35.0 -> 2.35.1
+  * media-gfx/imagemagick 7.1.0.19 -> 7.1.0.22
+  * sys-kernel/zoneos-kernel 5.15.16 -> 5.15.18
+</details>
+
+## ZoneOS 22.01.01 (2022-01-25)
+
+  Security fixes
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-vcs/git 2.34.1 -> 2.35.0
+  * sys-kernel/zoneos-kernel 5.15.15 -> 5.15.16
+  * sys-libs/timezone-data 2021a-r1 -> 2021a-r2
+</details>
+
+## ZoneOS 22.01.00 (2022-01-21)
+
+  * Python 2.7 and 3.6 are removed
+  * PECL geoip module is removed
+  * PHP versions 8.0.15 and 8.1.2
+  * Kernel version 5.5.15
+  * Perl version 5.34.0
+  * OpenSSH 8.8
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-arch/gzip 1.10 -> 1.11
+  * app-arch/snappy 1.1.8 -> 1.1.9
+  * app-crypt/gnupg 2.2.27 -> 2.2.32-r1
+  * app-crypt/gpgme 1.15.1 -> 1.16.0
+  * app-crypt/pinentry 1.1.0-r4 -> 1.2.0
+  * app-editors/nano 5.6.1-r2 -> 5.9
+  * app-editors/vim 8.2.0814-r100 -> 8.2.3741
+  * app-misc/ca-certificates 3.71 -> 3.74
+  * app-misc/jq 1.6-r3 -> 1.7_pre20201109
+  * app-misc/mc 4.8.26-r1 -> 4.8.27
+  * app-misc/tmux 3.2 -> 3.2a
+  * app-shells/bash 5.0_p18 -> 5.1_p8
+  * app-text/ghostscript-gpl 9.53.3-r4 -> 9.55.0-r1
+  * app-text/poppler 21.07.0 -> 21.11.0
+  * app-text/qpdf 10.3.2 -> 10.4.0
+  * dev-lang/perl 5.30.3-r1 -> 5.34.0-r6
+  * dev-lang/php 8.0.14 -> 8.0.15
+  * dev-lang/php 8.1.1 -> 8.1.2
+  * dev-libs/expat 2.4.1 -> 2.4.3
+  * dev-libs/glib 2.68.3-r1 -> 2.68.4
+  * dev-libs/hiredis 1.0.0-r1 -> 1.0.2-r1
+  * dev-libs/jansson 2.13.1-r1 -> 2.14
+  * dev-libs/libbsd 0.10.0 -> 0.11.3
+  * dev-libs/libevent 2.1.11 -> 2.1.12
+  * dev-libs/libgcrypt 1.8.8 -> 1.9.4
+  * dev-libs/libgit2 1.1.1 -> 1.3.0
+  * dev-libs/libpcre2 10.37-r2 -> 10.39
+  * dev-libs/nss 3.63.1-r1 -> 3.68.1
+  * dev-libs/openssl 1.1.1l -> 1.1.1m
+  * dev-libs/protobuf 3.17.3 -> 3.19.1
+  * dev-perl/Devel-CheckLib 1.130.0 -> 1.140.0
+  * dev-perl/Encode-Locale 1.50.0 -> 1.50.0-r1
+  * dev-perl/File-Listing 6.40.0-r1 -> 6.140.0
+  * dev-perl/HTML-Parser 3.720.0 -> 3.760.0
+  * dev-perl/HTML-Tagset 3.200.0-r1 -> 3.200.0-r2
+  * dev-perl/HTTP-Cookies 6.40.0 -> 6.100.0
+  * dev-perl/HTTP-Date 6.20.0-r1 -> 6.50.0
+  * dev-perl/HTTP-Message 6.130.0 -> 6.330.0
+  * dev-perl/HTTP-Negotiate 6.10.0-r1 -> 6.10.0-r2
+  * dev-perl/IO-HTML 1.1.0 -> 1.4.0
+  * dev-perl/IO-Socket-INET6 2.720.0-r1 -> 2.720.0-r2
+  * dev-perl/IO-Socket-SSL 2.66.0 -> 2.72.0
+  * dev-perl/JSON 2.940.0 -> 4.30.0
+  * dev-perl/JSON-XS 3.40.0 -> 4.30.0
+  * dev-perl/LWP-MediaTypes 6.20.0-r1 -> 6.40.0
+  * dev-perl/LWP-Protocol-https 6.70.0 -> 6.100.0
+  * dev-perl/Mozilla-CA 20999999 -> 20999999-r1
+  * dev-perl/Net-Daemon 0.480.0-r2 -> 0.490.0
+  * dev-perl/Net-HTTP 6.170.0 -> 6.210.0
+  * dev-perl/Net-SSLeay 1.880.0-r1 -> 1.900.0
+  * dev-perl/PlRPC 0.202.0-r3 -> 0.202.0-r4
+  * dev-perl/Role-Tiny 2.0.6 -> 2.2.4
+  * dev-perl/Socket6 0.280.0 -> 0.290.0
+  * dev-perl/Sys-MemInfo 0.990.0 -> 0.990.0-r1
+  * dev-perl/TermReadKey 2.370.0 -> 2.380.0
+  * dev-perl/Try-Tiny 0.300.0 -> 0.300.0-r1
+  * dev-perl/Types-Serialiser 1.0.0-r1 -> 1.10.0
+  * dev-perl/URI 1.730.0 -> 5.90.0
+  * dev-perl/Unicode-String 2.100.0 -> 2.100.0-r1
+  * dev-perl/WWW-RobotRules 6.20.0-r1 -> 6.20.0-r2
+  * dev-perl/common-sense 3.740.0-r1 -> 3.750.0
+  * dev-perl/libwww-perl 6.270.0 -> 6.580.0
+  * dev-php/blackfire 1.69.0 -> 1.73.0
+  * dev-php/ioncube 11.0.0 -> 11.0.1
+  * dev-php/pecl-mongodb 1.11.1 -> 1.12.0
+  * dev-php/pecl-redis 5.3.4-r1 -> 5.3.6
+  * dev-php/pecl-xdebug 3.1.1 -> 3.1.2
+  * dev-python/mysqlclient 1.4.6-r1 -> 2.1.0
+  * dev-python/pip 20.2.2-r1 -> 21.3.1-r1
+  * dev-python/pygobject 3.40.1-r1 -> 3.42.0
+  * dev-python/pymongo 3.11.0-r1 -> 4.0.1
+  * dev-python/setuptools 46.4.0-r3 -> 59.8.0
+  * dev-python/setuptools_scm 4.1.2 -> 6.3.2
+  * dev-python/six 1.15.0-r1 -> 1.16.0
+  * dev-python/virtualenv 16.7.10-r1 -> 20.10.0-r1
+  * dev-vcs/git 2.32.0 -> 2.34.1
+  * dev-vcs/subversion 1.14.0-r1 -> 1.14.1
+  * media-gfx/gifsicle 1.92 -> 1.93
+  * media-gfx/imagemagick 7.1.0.16 -> 7.1.0.19
+  * media-libs/dav1d 0.8.2 -> 0.9.1
+  * media-libs/freetype 2.10.4 -> 2.11.0-r1
+  * media-libs/harfbuzz 2.8.1 -> 3.1.1
+  * media-libs/libepoxy 1.5.5 -> 1.5.9-r1
+  * media-libs/libglvnd 1.3.3 -> 1.3.4
+  * media-video/ffmpeg 4.4-r1 -> 4.4.1-r1
+  * net-dns/bind 9.16.22 -> 9.16.24
+  * net-dns/libidn 1.37 -> 1.38-r1
+  * net-ftp/ftp 0.17.23.0.2.1 -> 0.17.34.0.2.5.1
+  * net-libs/ldns 1.7.1-r4 -> 1.8.0-r4
+  * net-libs/nodejs 16.13.0 -> 16.13.2
+  * net-misc/curl 7.80.0 -> 7.81.0
+  * net-misc/openssh 8.6_p1-r1 -> 8.8_p1-r4
+  * net-misc/wget 1.21.1 -> 1.21.2
+  * net-nds/openldap 2.4.57-r2 -> 2.4.58-r2
+  * net-print/cups-filters 1.28.3 -> 1.28.10-r1
+  * perl-core/File-Temp 0.230.900 -> 0.231.100
+  * sys-apps/exa 0.9.0-r1 -> 0.10.1
+  * sys-apps/file 5.40-r3 -> 5.41
+  * sys-kernel/zoneos-kernel 5.4.167 -> 5.15.15
+  * sys-libs/ncurses 6.1_p20190609 -> 6.2_p20210619
+  * sys-libs/readline 8.0_p4 -> 8.1_p1-r1
+  * sys-process/htop 3.0.5-r1 -> 3.1.2-r1
+  * sys-process/procps 3.3.15-r2 -> 3.3.17-r1
+  * www-apache/mod_security 2.9.4 -> 2.9.5
+  * www-servers/apache 2.4.51-r1 -> 2.4.52
+  * x11-base/xorg-proto 2021.4 -> 2021.5
+  * x11-libs/gtk+ 3.24.24-r1 -> 3.24.29
+  * x11-libs/libX11 1.7.2 -> 1.7.3
+  * x11-libs/libXi 1.7.10 -> 1.8
+  * x11-libs/libdrm 2.4.107 -> 2.4.109
+  * x11-libs/libxkbcommon 1.3.0 -> 1.3.1
+  * x11-misc/compose-tables 1.7.2 -> 1.7.3
+  * x11-misc/shared-mime-info 2.0-r2 -> 2.1
+</details>
