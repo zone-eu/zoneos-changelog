@@ -1,3 +1,59 @@
+## ZoneOS 22.02.02 (2022-02-22)
+
+  * Added rdkafka PECL module.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-arch/zstd 1.5.0 -> 1.5.2
+  * app-crypt/gnupg 2.2.32-r1 -> 2.2.33-r1
+  * media-gfx/imagemagick 7.1.0.25 -> 7.1.0.26
+  * media-libs/libvpx 1.10.0 -> 1.11.0
+  * media-libs/x265 3.4 -> 3.5-r2
+  * net-misc/whois 5.5.10-r1 -> 5.5.11
+  * sys-apps/gawk 5.1.0 -> 5.1.1-r1
+</details>
+
+## ZoneOS 22.02.01 (2022-02-18)
+
+  * PHP versions 7.4.28, 8.0.16 and 8.1.3
+  * MariaDB versions 10.3.34, 10.4.24 and 10.6.7
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-text/poppler 21.11.0 -> 22.01.0
+  * dev-db/mariadb 10.3.32 -> 10.3.34
+  * dev-db/mariadb 10.4.22 -> 10.4.24
+  * dev-db/mariadb 10.6.5 -> 10.6.7
+  * dev-db/sqlite 3.35.5 -> 3.37.2
+  * dev-lang/php 7.4.27 -> 7.4.28
+  * dev-lang/php 8.0.15 -> 8.0.16
+  * dev-lang/php 8.1.2 -> 8.1.3
+  * dev-libs/expat 2.4.3 -> 2.4.4
+  * dev-libs/libuv 1.42.0 -> 1.43.0
+  * dev-libs/nspr 4.32 -> 4.33
+  * dev-libs/nss 3.68.1 -> 3.68.2
+  * dev-libs/protobuf-c 1.3.3-r1 -> 1.4.0-r1
+  * dev-php/blackfire 1.73.0 -> 1.74.1
+  * dev-php/pecl-redis 5.3.6 -> 5.3.7
+  * dev-php/pecl-xdebug 3.1.2 -> 3.1.3
+  * dev-php/sourceguardian 12.1.2 -> 13.0
+  * media-gfx/imagemagick 7.1.0.22 -> 7.1.0.25
+  * media-libs/dav1d 0.9.1 -> 0.9.2
+  * media-libs/harfbuzz 3.1.1 -> 3.2.0
+  * media-libs/libglvnd 1.3.4 -> 1.4.0
+  * media-libs/libwebp 1.1.0 -> 1.2.2
+  * net-analyzer/mtr 0.94-r1 -> 0.95
+  * net-dns/bind-tools 9.16.24 -> 9.16.26
+  * net-libs/nodejs 16.13.2 -> 16.14.0
+  * sys-kernel/zoneos-kernel 5.15.18 -> 5.15.24
+</details>
+
 ## ZoneOS 22.02.00 (2022-02-01)
 
   * Added HEIC support into imagemagick
