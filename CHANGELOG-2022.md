@@ -1,3 +1,18 @@
+## ZoneOS 22.03.00 (2022-03-02)
+
+  * Expat 2.4.6 fixing CVE-2022-25313, CVE-2022-25314, CVE-2022-25315, CVE-2022-25235 and CVE-2022-25236.
+  * Kernel 5.15.25 fixing CVE-2022-0847 aka "Dirty Pipe".
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-libs/expat 2.4.4 -> 2.4.6
+  * dev-php/pecl-mongodb 1.12.0 -> 1.12.1
+  * sys-kernel/zoneos-kernel 5.15.24 -> 5.15.25
+</details>
+
 ## ZoneOS 22.02.02 (2022-02-22)
 
   * Added rdkafka PECL module.
