@@ -1,3 +1,139 @@
+## ZoneOS 22.05.00 (2022-05-02)
+
+  * Redis 6.2.7 fixing CVE-2022-24735 and CVE-2022-24736.
+  * Nodejs 16.15.0.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-db/redis 6.2.6 -> 6.2.7-r1
+  * media-gfx/imagemagick 7.1.0.30 -> 7.1.0.32
+  * media-libs/freetype 2.11.1 -> 2.12.0-r1
+  * media-libs/opus 1.3.1-r2 -> 1.3.1-r3
+  * net-libs/libproxy 0.4.17 -> 0.4.17-r1
+  * net-libs/nodejs 16.14.2 -> 16.15.0
+  * sys-kernel/zoneos-kernel 5.15.35 -> 5.15.37
+</details>
+
+## ZoneOS 22.04.02 (2022-04-21)
+
+  * Mostly internal changes.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-db/sqlite 3.38.0 -> 3.38.1
+  * dev-vcs/git 2.35.3 -> 2.36.0
+  * sys-kernel/zoneos-kernel 5.15.34 -> 5.15.35
+</details>
+
+## ZoneOS 22.04.01 (2022-04-18)
+
+  * PHP versions 7.4.29, 8.0.18 and 8.1.5.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-crypt/gnupg 2.2.33-r1 -> 2.2.34-r1
+  * app-text/poppler 22.01.0 -> 22.03.0
+  * dev-lang/php 7.4.28 -> 7.4.29
+  * dev-lang/php 8.0.17 -> 8.0.18
+  * dev-lang/php 8.1.4 -> 8.1.5
+  * dev-libs/libgit2 1.4.1 -> 1.4.2
+  * dev-vcs/git 2.35.1 -> 2.35.3
+  * media-gfx/imagemagick 7.1.0.29 -> 7.1.0.30
+  * net-misc/curl 7.82.0 -> 7.82.0-r1
+  * sys-kernel/zoneos-kernel 5.15.33 -> 5.15.34
+</details>
+
+## ZoneOS 22.04.00 (2022-04-12)
+
+  * Python 3.18.13.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-arch/gzip 1.11 -> 1.12
+  * app-text/qpdf 10.4.0 -> 10.6.3
+  * dev-db/sqlite 3.37.2 -> 3.38.0
+  * dev-lang/python 3.8.12_p2 -> 3.8.13
+  * dev-php/pecl-imagick 3.6.0-r1 -> 3.7.0
+  * dev-php/pecl-mongodb 1.12.1 -> 1.13.0
+  * dev-php/pecl-xdebug 3.1.3 -> 3.1.4
+  * media-gfx/imagemagick 7.1.0.28 -> 7.1.0.29
+  * media-libs/freetype 2.11.0-r1 -> 2.11.1
+  * sys-kernel/zoneos-kernel 5.15.31 -> 5.15.33
+</details>
+
+## ZoneOS 22.03.03 (2022-03-24)
+
+  * Mostly internal changes.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * media-gfx/imagemagick 7.1.0.27 -> 7.1.0.28
+  * sys-kernel/zoneos-kernel 5.15.29 -> 5.15.30
+</details>
+
+## ZoneOS 22.03.02 (2022-03-18)
+
+  * OpenSSL 1.1.1n fixing CVE-2022-0778.
+  * PHP versions 8.0.17 and 8.1.4.
+  * Apache 2.4.53.
+  * Nodejs 16.14.2.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-lang/php 8.0.16 -> 8.0.17
+  * dev-lang/php 8.1.3 -> 8.1.4
+  * dev-libs/fribidi 1.0.10 -> 1.0.11
+  * dev-libs/glib 2.68.4 -> 2.70.4
+  * dev-libs/hiredis 1.0.2-r1 -> 1.0.2-r2
+  * dev-libs/openssl 1.1.1m -> 1.1.1n
+  * dev-libs/protobuf 3.19.1 -> 3.19.3
+  * dev-php/blackfire 1.74.1 -> 1.75.0
+  * dev-php/newrelic 9.18.1.303 -> 9.20.0.310
+  * media-gfx/imagemagick 7.1.0.26 -> 7.1.0.27
+  * net-libs/nodejs 16.14.0 -> 16.14.2
+  * net-misc/curl 7.81.0 -> 7.82.0
+  * sys-kernel/zoneos-kernel 5.15.27 -> 5.15.29
+  * www-servers/apache 2.4.52 -> 2.4.53
+</details>
+
+## ZoneOS 22.03.01 (2022-03-09)
+
+  * Expat 2.4.7 to fix incompatibilities related to CVE-2022-25236 fix.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-editors/vim 8.2.3741 -> 8.2.4328-r1
+  * dev-db/mysql 8.0.27 -> 8.0.28
+  * dev-libs/expat 2.4.6 -> 2.4.7
+  * dev-libs/libgit2 1.3.0 -> 1.4.1
+  * dev-libs/libxml2 2.9.12-r5 -> 2.9.13-r1
+  * dev-libs/libxslt 1.1.34-r2 -> 1.1.35
+  * dev-libs/nss 3.68.2 -> 3.68.2-r1
+  * net-libs/gnutls 3.7.2 -> 3.7.3-r1
+  * sys-kernel/zoneos-kernel 5.15.25 -> 5.15.27
+</details>
+
 ## ZoneOS 22.03.00 (2022-03-02)
 
   * Expat 2.4.6 fixing CVE-2022-25313, CVE-2022-25314, CVE-2022-25315, CVE-2022-25235 and CVE-2022-25236.
