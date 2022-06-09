@@ -1,3 +1,53 @@
+## ZoneOS 22.05.02 (2022-05-27)
+
+  * Various updates.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-db/sqlite 3.38.1 -> 3.38.2
+  * dev-libs/libpcre2 10.39-r1 -> 10.40
+  * dev-libs/libtasn1 4.17.0 -> 4.18.0
+  * dev-libs/libxml2 2.9.13-r1 -> 2.9.14-r1
+  * dev-php/blackfire 1.77.0 -> 1.78.0
+  * net-misc/wget 1.21.2 -> 1.21.3
+  * net-misc/whois 5.5.11 -> 5.5.13
+  * sys-apps/findutils 4.8.0-r1 -> 4.9.0
+  * sys-kernel/zoneos-kernel 5.15.41 -> 5.15.43
+</details>
+
+## ZoneOS 22.05.01 (2022-05-21)
+
+  * PHP versions 8.0.19 and 8.1.6.
+  * MariaDB versions 10.3.35, 10.4.25 and 10.6.8.
+  * Curl 7.83.1.
+  * Git 2.36.1.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-editors/nano 5.9 -> 6.2
+  * dev-db/mariadb 10.3.34-r1 -> 10.3.35
+  * dev-db/mariadb 10.4.24-r1 -> 10.4.25
+  * dev-db/mariadb 10.6.7-r1 -> 10.6.8
+  * dev-lang/php 8.0.18 -> 8.0.19
+  * dev-lang/php 8.1.5 -> 8.1.6
+  * dev-php/blackfire 1.75.0 -> 1.77.0
+  * dev-php/newrelic 9.20.0.310 -> 9.21.0.311
+  * dev-php/sourceguardian 13.0 -> 13.0.3
+  * dev-python/pymongo 4.0.1 -> 4.1.1
+  * dev-vcs/git 2.36.0 -> 2.36.1
+  * media-gfx/imagemagick 7.1.0.32 -> 7.1.0.35
+  * net-analyzer/rrdtool 1.7.2-r100 -> 1.8.0
+  * net-dns/bind-tools 9.16.27 -> 9.16.29
+  * net-misc/curl 7.82.0-r1 -> 7.83.1
+  * sys-kernel/zoneos-kernel 5.15.37 -> 5.15.41
+</details>
+
 ## ZoneOS 22.05.00 (2022-05-02)
 
   * Redis 6.2.7 fixing CVE-2022-24735 and CVE-2022-24736.
