@@ -55,6 +55,7 @@
 ## ZoneOS 22.04.00 (2022-04-12)
 
   * Python 3.18.13.
+  * Removed Percona toolkit utilities.
 
 <details>
   <summary>Detailed list of software version changes</summary>
