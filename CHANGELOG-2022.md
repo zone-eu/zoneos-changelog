@@ -1,3 +1,29 @@
+## ZoneOS 22.06.00 (2022-06-10)
+
+  * PHP versions 7.4.30, 8.0.20 and 8.1.7 fixing CVE-2022-31625 and CVE-2022-31626.
+  * Apache 2.4.54 fixing CVE-2022-26377, CVE-2022-28330, CVE-2022-28613, CVE-2022-28614, CVE-2022-28615, CVE-2022-29404, CVE-2022-30556 and CVE-2022-31813.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-arch/pigz 2.6 -> 2.7
+  * app-arch/unrar 6.0.7 -> 6.1.7
+  * dev-db/sqlite 3.38.2 -> 3.38.5
+  * dev-lang/php 7.4.29 -> 7.4.30
+  * dev-lang/php 8.0.19 -> 8.0.20
+  * dev-lang/php 8.1.6 -> 8.1.7
+  * dev-libs/expat 2.4.7 -> 2.4.8
+  * dev-php/pecl-mailparse 3.1.1 -> 3.1.3
+  * dev-php/pecl-xdebug 3.1.4 -> 3.1.5
+  * media-gfx/imagemagick 7.1.0.35 -> 7.1.0.37
+  * net-libs/nodejs 16.15.0 -> 16.15.1
+  * sys-kernel/zoneos-kernel 5.15.43 -> 5.15.46
+  * sys-libs/zlib 1.2.11-r4 -> 1.2.12-r2
+  * www-servers/apache 2.4.53 -> 2.4.54
+</details>
+
 ## ZoneOS 22.05.02 (2022-05-27)
 
   * Various updates.
