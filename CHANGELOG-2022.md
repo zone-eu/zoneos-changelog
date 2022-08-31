@@ -1,3 +1,63 @@
+## ZoneOS 22.08.01 (2022-08-10)
+
+  * Added PHP 8.2.0 beta2.
+  * PHP versions 8.0.22 and 8.1.9.
+  * OpenSSL version 1.1.1q fixing CVE-2022-2068 and CVE-2022-2097.
+  * OpenSSH 9.0.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+  ### Added
+
+  * dev-lang/php 8.2.0_beta2
+
+  ### Changes
+
+  * app-admin/rsyslog 8.2102.0 -> 8.2206.0
+  * app-crypt/gnupg 2.2.34-r1 -> 2.2.35-r1
+  * app-crypt/gpgme 1.16.0 -> 1.17.1-r1
+  * app-crypt/mit-krb5 1.19.2-r3 -> 1.19.2-r4
+  * app-editors/nano 6.2 -> 6.3
+  * app-misc/tmux 3.2a -> 3.3a
+  * app-text/poppler 22.03.0 -> 22.06.0
+  * dev-db/mysql 8.0.28 -> 8.0.30
+  * dev-db/sqlite 3.38.5 -> 3.39.2
+  * dev-lang/php 8.0.20 -> 8.0.22
+  * dev-lang/php 8.1.7 -> 8.1.9
+  * dev-libs/fribidi 1.0.11 -> 1.0.12
+  * dev-libs/json-c 0.15 -> 0.16-r1
+  * dev-libs/libgit2 1.4.2 -> 1.4.4
+  * dev-libs/libgpg-error 1.42 -> 1.45
+  * dev-libs/libksba 1.5.1 -> 1.6.0
+  * dev-libs/libzip 1.8.0-r1 -> 1.9.2
+  * dev-libs/nspr 4.33 -> 4.34
+  * dev-libs/nss 3.68.3 -> 3.68.4
+  * dev-libs/oniguruma 6.9.7.1 -> 6.9.8
+  * dev-libs/openssl 1.1.1n -> 1.1.1q
+  * dev-php/pecl-mongodb 1.13.0 -> 1.14.0
+  * dev-vcs/git 2.36.1 -> 2.37.1
+  * media-gfx/imagemagick 7.1.0.37 -> 7.1.0.44
+  * media-libs/dav1d 0.9.2 -> 1.0.0
+  * media-libs/fontconfig 2.13.1-r2 -> 2.14.0-r1
+  * media-libs/gd 2.3.2-r1 -> 2.3.3-r1
+  * media-libs/harfbuzz 3.4.0-r1 -> 4.4.1
+  * media-libs/openjpeg 2.4.0 -> 2.5.0-r2
+  * media-libs/tiff 4.3.0 -> 4.4.0
+  * net-dns/bind-tools 9.16.29 -> 9.16.31
+  * net-dns/libidn 1.38-r1 -> 1.41
+  * net-libs/gnutls 3.7.3-r1 -> 3.7.6
+  * net-libs/libnsl 1.3.0-r2 -> 2.0.0-r1
+  * net-libs/nghttp2 1.45.1-r1 -> 1.47.0
+  * net-libs/nodejs 16.15.1 -> 16.16.0
+  * net-misc/curl 7.83.1 -> 7.84.0
+  * net-misc/openssh 8.8_p1-r4 -> 9.0_p1-r2
+  * net-misc/rsync 3.2.3-r5 -> 3.2.4-r3
+  * sys-apps/bat 0.15.4 -> 0.20.0
+  * sys-apps/file 5.41 -> 5.42
+  * sys-kernel/zoneos-kernel 5.15.46 -> 5.15.60
+  * sys-process/htop 3.1.2-r1 -> 3.2.1-r1
+</details>
+
 ## ZoneOS 22.06.00 (2022-06-10)
 
   * PHP versions 7.4.30, 8.0.20 and 8.1.7 fixing CVE-2022-31625 and CVE-2022-31626.
