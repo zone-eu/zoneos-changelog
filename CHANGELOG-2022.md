@@ -1,3 +1,53 @@
+## ZoneOS 22.09.00 (2022-09-02)
+
+  * **IMPORTANT! /usr/lib is not symlink to /usr/lib64 any more.**
+  * PHP versions 8.0.23, 8.1.10 and 8.2.0_rc1.
+  * MariaDB versions 10.4.26 and 10.6.9.
+  * Vim version 9.0.
+  * Glibc version 2.34.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-arch/unzip 6.0_p26 -> 6.0_p27
+  * app-editors/vim 8.2.4328-r1 -> 9.0.0099
+  * app-text/htmltidy 0.99.0 -> 5.8.0-r1
+  * app-text/poppler 22.06.0 -> 22.07.0
+  * dev-db/mariadb 10.4.25 -> 10.4.26
+  * dev-db/mariadb 10.6.8 -> 10.6.9
+  * dev-db/postgresql 13.5-r1 -> 13.8
+  * dev-lang/luajit 2.0.5-r3 -> 2.1.0_beta3_p20220127-r2
+  * dev-lang/perl 5.34.0-r6 -> 5.34.1-r3
+  * dev-lang/php 8.0.22 -> 8.0.23
+  * dev-lang/php 8.1.9 -> 8.1.10
+  * dev-lang/php 8.2.0_beta2 -> 8.2.0_rc1
+  * dev-lang/python 3.8.13 -> 3.8.13_p6
+  * dev-libs/cyrus-sasl 2.1.27-r6 -> 2.1.28-r4
+  * dev-libs/libgit2 1.4.4 -> 1.5.0
+  * dev-libs/protobuf-c 1.4.0-r1 -> 1.4.1
+  * dev-php/blackfire 1.78.0 -> 1.81.0
+  * dev-php/ioncube 11.0.1 -> 12.0.1
+  * dev-php/newrelic 9.21.0.311 -> 10.0.0.312
+  * dev-python/pip 22.0.3 -> 22.2.2
+  * dev-python/pymongo 4.1.1 -> 4.2.0
+  * dev-python/setuptools 60.9.2 -> 63.2.0
+  * dev-python/virtualenv 20.13.3 -> 20.15.1
+  * dev-vcs/git 2.37.1 -> 2.37.3
+  * dev-vcs/subversion 1.14.1 -> 1.14.2-r1
+  * media-libs/freetype 2.12.0-r1 -> 2.12.1
+  * media-libs/libjpeg-turbo 2.1.1-r2 -> 2.1.3
+  * media-libs/libvpx 1.11.0 -> 1.12.0
+  * media-libs/libwebp 1.2.2 -> 1.2.4
+  * media-video/ffmpeg 4.4.1-r5 -> 4.4.2
+  * net-dns/libidn2 2.3.2 -> 2.3.3
+  * net-libs/gnutls 3.7.6 -> 3.7.7
+  * sys-apps/util-linux 2.37.2-r1 -> 2.37.4
+  * sys-kernel/zoneos-kernel 5.15.60 -> 5.15.64
+  * sys-libs/glibc 2.33-r13 -> 2.34-r13
+</details>
+
 ## ZoneOS 22.08.01 (2022-08-10)
 
   * Added PHP 8.2.0 beta2.
@@ -7,6 +57,7 @@
 
 <details>
   <summary>Detailed list of software version changes</summary>
+
   ### Added
 
   * dev-lang/php 8.2.0_beta2
