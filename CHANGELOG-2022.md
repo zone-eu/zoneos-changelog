@@ -1,3 +1,87 @@
+## ZoneOS 22.10.00 (2022-10-07)
+
+  * Git version 2.38.0.
+  * Curl version 7.85.0.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-vcs/git 2.37.3 -> 2.38.0
+  * net-misc/curl 7.84.0 -> 7.85.0-r2
+  * sys-kernel/zoneos-kernel 5.15.71 -> 5.15.72
+  * www-apache/mod_security 2.9.5 -> 2.9.6
+</details>
+
+## ZoneOS 22.09.03 (2022-09-30)
+
+  * Redis 7.0.5 (a major upgrade from 6.2.7).
+  * MariaDB versions 10.3.36 and 10.6.10.
+  * PHP versions 7.4.32, 8.0.24, 8.1.11 and 8.2.0rc3 fixing CVE-2022-31628 and CVE-2022-31629.
+  * Expat 2.4.9 fixing CVE-2022-40674.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-arch/xz-utils 5.2.5-r2 -> 5.2.6
+  * app-crypt/pinentry 1.2.0 -> 1.2.1
+  * app-editors/nano 6.3 -> 6.4
+  * dev-db/mariadb 10.3.35 -> 10.3.36-r1
+  * dev-db/mariadb 10.4.26 -> 10.4.26-r1
+  * dev-db/mariadb 10.6.9 -> 10.6.10-r1
+  * dev-db/mariadb-connector-c 3.1.13 -> 3.2.7
+  * dev-db/redis 6.2.7-r1 -> 7.0.5
+  * dev-lang/php 7.4.30 -> 7.4.32
+  * dev-lang/php 8.0.23 -> 8.0.24
+  * dev-lang/php 8.1.10 -> 8.1.11
+  * dev-lang/php 8.2.0_rc1 -> 8.2.0_rc3
+  * dev-libs/expat 2.4.8 -> 2.4.9
+  * dev-libs/libaio 0.3.112 -> 0.3.113
+  * dev-libs/nss 3.68.4 -> 3.79.1
+  * dev-php/blackfire 1.81.0 -> 1.82.1
+  * dev-php/ioncube 12.0.1 -> 12.0.2
+  * dev-php/newrelic 10.0.0.312 -> 10.1.0.313
+  * dev-python/distlib 0.3.5 -> 0.3.6
+  * dev-python/setuptools 63.4.3 -> 65.3.0
+  * dev-python/urllib3 1.26.11 -> 1.26.12
+  * media-gfx/imagemagick 7.1.0.48 -> 7.1.0.49
+  * media-libs/mesa 22.1.3 -> 22.1.7
+  * net-dns/bind 9.16.31 -> 9.16.33
+  * net-libs/nodejs 16.16.0 -> 16.17.1
+  * net-misc/memcached 1.6.16 -> 1.6.17
+  * sys-kernel/zoneos-kernel 5.15.68 -> 5.15.71
+</details>
+
+## ZoneOS 22.09.01 (2022-09-16)
+
+  * Various small updates and fixes all over the software
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * app-crypt/gnupg 2.2.35-r1 -> 2.2.39
+  * app-text/poppler 22.07.0 -> 22.09.0
+  * dev-lang/python 3.8.13_p6 -> 3.8.13_p8
+  * dev-libs/inih 55 -> 56-r1
+  * dev-libs/libtasn1 4.18.0 -> 4.19.0
+  * dev-libs/nspr 4.34 -> 4.34.1
+  * dev-php/pecl-mongodb 1.14.0 -> 1.14.1
+  * dev-python/setuptools 63.2.0 -> 63.4.3
+  * dev-python/virtualenv 20.15.1 -> 20.16.3
+  * media-gfx/imagemagick 7.1.0.44 -> 7.1.0.48
+  * media-libs/harfbuzz 4.4.1 -> 5.1.0
+  * media-libs/libaom 3.3.0 -> 3.4.0
+  * media-libs/x264 0.0.20190903-r1 -> 0.0.20220222
+  * net-misc/memcached 1.6.10 -> 1.6.16
+  * sys-kernel/zoneos-kernel 5.15.64 -> 5.15.68
+  * sys-libs/libcap 2.64 -> 2.65
+</details>
+
 ## ZoneOS 22.09.00 (2022-09-02)
 
   * **IMPORTANT! /usr/lib is not symlink to /usr/lib64 any more.**
