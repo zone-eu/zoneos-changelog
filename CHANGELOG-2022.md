@@ -1,4 +1,4 @@
-## ZoneOS 22.10.00 (2022-10-07)
+## ZoneOS 22.10.00 (2022-10-07, last hotfix 2023-02-14)
 
   * Git version 2.38.0.
   * Curl version 7.85.0.
@@ -12,6 +12,43 @@
   * net-misc/curl 7.84.0 -> 7.85.0-r2
   * sys-kernel/zoneos-kernel 5.15.71 -> 5.15.72
   * www-apache/mod_security 2.9.5 -> 2.9.6
+</details>
+
+<details>
+  <summary>List of hotfixes</summary>
+
+  #### 2022-02-14
+
+  * PHP versions 8.0.28, 8.1.16 and 8.2.3 fixing CVE-2023-0567, CVE-2023-0568, and CVE-2023-0662.
+  * Fixes are backported to all older PHP versions as well.
+
+  #### 2023-02-03
+
+  * PHP versions 8.1.15 and 8.2.2.
+
+  #### 2023-01-17
+
+  * Git version 2.38.3.
+
+  #### 2023-01-05
+
+  * PHP versions 8.0.27, 8.1.14 and 8.2.1
+
+  #### 2022-12-07
+
+  * PHP version 8.2.0.
+
+  #### 2022-11-28
+
+  * PHP versions 8.0.26, 8.1.13 and 8.2.0-rc7.
+
+  #### 2022-11-17
+
+  * OpenSSL 1.1.1s
+
+  #### 2022-10-31
+
+  * PHP versions 8.0.25, 8.1.12 and 8.2.0-rc5.
 </details>
 
 ## ZoneOS 22.09.03 (2022-09-30)
