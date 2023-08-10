@@ -1,3 +1,21 @@
+## ZoneOS 22.08.00 (2023-08-09)
+
+  * Kernel 5.15.125 and Intel microcode 20230808 to fix CVE-2022-40982.
+  * PHP versions 8.0.30, 8.1.21, 8.2.9 and 8.3.0_beta2
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+
+  * dev-lang/php 8.0.29 -> 8.0.30
+  * dev-lang/php 8.1.21 -> 8.1.22
+  * dev-lang/php 8.2.8 -> 8.2.9
+  * dev-lang/php 8.3.0_beta1 -> 8.3.0_beta2
+  * sys-firmware/intel-microcode 20230512 -> 20230808
+  * sys-kernel/zoneos-kernel 5.15.122 -> 5.15.125
+</details>
+
 ## ZoneOS 22.07.00 (2023-07-24)
 
   * Added PHP 8.3-beta1
