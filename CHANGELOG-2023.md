@@ -1,3 +1,23 @@
+## ZoneOS 23.08.01 (2023-08-13)
+
+  * Kernel 5.15.131 with security updates.
+  * PHP versions 8.1.23, 8.2.10 and 8.3.0_rc1.
+  * MariaDB versions 10.4.31 and 10.6.15.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+  * dev-db/mariadb 10.4.30 -> 10.4.31
+  * dev-db/mariadb 10.6.14 -> 10.6.15
+  * dev-lang/php 8.1.22 -> 8.1.23
+  * dev-lang/php 8.2.9 -> 8.2.10
+  * dev-lang/php 8.3.0_beta2 -> 8.3.0_rc1
+  * dev-libs/openssl 1.1.1u -> 1.1.1w
+  * net-dns/bind-tools 9.16.42 -> 9.16.43
+  * sys-kernel/zoneos-kernel 5.15.125 -> 5.15.131
+</details>
+
 ## ZoneOS 23.08.00 (2023-08-09)
 
   * Kernel 5.15.125 and Intel microcode 20230808 to fix CVE-2022-40982.
