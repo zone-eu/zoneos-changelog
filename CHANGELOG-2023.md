@@ -1,3 +1,19 @@
+## ZoneOS 23.08.02 (2023-10-04)
+
+  * Libwebp to fix CVE-2023-4863.
+  * PHP versions 8.1.24, 8.2.11, 8.3.0_rc3.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+  * dev-lang/php 8.1.23 -> 8.1.24
+  * dev-lang/php 8.2.10 -> 8.2.11
+  * dev-lang/php 8.3.0_rc1 -> 8.3.0_rc3
+  * media-libs/libwebp 1.2.4-r1 -> 1.2.4-r2
+  * net-dns/bind-tools 9.16.43 -> 9.16.44
+</details>
+
 ## ZoneOS 23.08.01 (2023-08-13)
 
   * Kernel 5.15.131 with security updates.
