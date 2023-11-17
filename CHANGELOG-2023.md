@@ -1,3 +1,33 @@
+## ZoneOS 23.11.00 (2023-11-15)
+
+  * PHP versions 8.1.25, 8.2.12 and 8.3.0_rc6.
+  * MariaDB versions 10.4.32 and 10.6.16.
+  * Intel/AMD microcode updates.
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+  * dev-db/mariadb 10.4.31 -> 10.4.32
+  * dev-db/mariadb 10.6.15 -> 10.6.16
+  * dev-lang/php 8.1.24 -> 8.1.25
+  * dev-lang/php 8.2.11 -> 8.2.12
+  * dev-lang/php 8.3.0_rc3 -> 8.3.0_rc6
+  * dev-php/blackfire 1.88.1 -> 1.91.0
+  * dev-php/ioncube 12.0.5 -> 13.0.2
+  * dev-php/newrelic 10.10.0.1 -> 10.14.0.3
+  * dev-php/pecl-mailparse 3.1.4 -> 3.1.6
+  * dev-php/pecl-mongodb 1.16.1-r1 -> 1.17.0
+  * dev-vcs/git 2.40.1 -> 2.42.1
+  * net-libs/nghttp2 1.51.0 -> 1.57.0
+  * net-libs/nodejs 18.17.0 -> 18.18.2
+  * net-misc/curl 8.1.2 -> 8.4.0
+  * sys-firmware/intel-microcode 20230808 -> 20231114
+  * sys-kernel/zoneos-firmware 20230804 -> 20231111
+  * sys-kernel/zoneos-kernel 5.15.131 -> 5.15.138
+  * www-servers/apache 2.4.57-r1 -> 2.4.58
+</details>
+
 ## ZoneOS 23.08.02 (2023-10-04)
 
   * Libwebp to fix CVE-2023-4863.
