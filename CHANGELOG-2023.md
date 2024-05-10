@@ -1,3 +1,12 @@
+## ZoneOS 23.11.00 update (2023-11-23)
+
+  * PHP versions 8.1.27, 8.2.14 and 8.3.1.
+  * OpenSSH version 9.6p1.
+
+## ZoneOS 23.11.00 update (2023-11-23)
+
+  * PHP versions 8.1.26, 8.2.13 and 8.3.0.
+
 ## ZoneOS 23.11.00 (2023-11-15)
 
   * PHP versions 8.1.25, 8.2.12 and 8.3.0_rc6.
