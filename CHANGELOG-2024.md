@@ -1,3 +1,11 @@
+## ZoneOS 23.11.00 update (2024-05-20)
+
+  * MariaDB versions 10.4.34 and 10.6.18.
+
+## ZoneOS 23.11.00 update (2024-05-14)
+
+  * Git version 2.42.2 fixing CVE-2024-32002, CVE-2024-32004, CVE-2024-32020, CVE-2024-32021 and CVE-2024-32465.
+
 ## ZoneOS 23.11.00 update (2024-05-10)
 
   * PHP versions 8.2.19 and 8.3.7.
