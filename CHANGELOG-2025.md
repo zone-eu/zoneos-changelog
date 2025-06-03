@@ -10,7 +10,7 @@
   * Added Postgresql 17.4
   * Added Python 3.13.1
   * Perl 5.40
-  * Nodejs 22.15.1
+  * Nodejs 22.15.0
   * Moved to 6.6 LTS kernel, glibc-2.40 and gcc-13
 
 <details>
