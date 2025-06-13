@@ -1,3 +1,10 @@
+## ZoneOS update (2025-06-06)
+
+  * PHP 8.3.22 and 8.4.8
+  * ModSecurity 2.9.10 (fixes CVE 2025-47947 and CVE 2025-48866)
+  * Added pgvector-0.8.0 extension for PostgreSQL.
+  * Added excimer PECL module.
+
 ## ZoneOS update (2025-05-23)
 
   * MariaDB 11.4.7
