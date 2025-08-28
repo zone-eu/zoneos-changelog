@@ -1,3 +1,21 @@
+## ZoneOS update (2025-08-01)
+
+  * PHP 8.3.24 and 8.4.11
+  * Apache 2.4.65
+  * MySQL 8.0.43 and 8.4.6
+  * Sqlite 3.46.1
+  * Git 2.49.1
+  * OpenSSL 3.5.1
+  * Newrelic 11.10.0.24
+  * ModSecurity 2.9.11
+  * Nodejs 20.19.4 (ZoneOS 23.11.00)
+  * Nodejs 22.18.0 (ZoneOS 25.05.00)
+
+## ZoneOS update (2025-07-04)
+
+  * PHP 8.1.33, 8.2.29, 8.3.23 and 8.4.10
+  * Python 3.11.13 and 3.13.5
+
 ## ZoneOS update (2025-06-06)
 
   * PHP 8.3.22 and 8.4.8
