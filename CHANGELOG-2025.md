@@ -1,18 +1,18 @@
 ## ZoneOS update (2025-11-22)
 
-  * ** Nodejs 24.11.1 (Major upgrade!)**
-  * ** Redis 8.2.3 (Major upgrade!)**
-  * PHP 8.3.28, 8.4.15 and 8.5.0
-  * MariaDB 10.6.24 and 11.4.9
-  * Postgresql 14.20 and 17.7
-  * OpenSSL 3.5.4 (Fixes CVE-2025-9230, CVE-2025-9231 and CVE-2025-9232)
-  * Blackfire 1.92.50
-  * Newrelic 12.2.0.27
-  * PECL redis 6.3.0
-  * PECL xdebug 3.4.7
-  * Imagemagick 7.1.2.8
-  * Libpng 1.6.51 (Fixes CVE-2025-64505)
-  * Bind 9.18.42
+- ** Nodejs 24.11.1 (Major upgrade!)**
+- ** Redis 8.2.3 (Major upgrade!)**
+- PHP 8.3.28, 8.4.15 and 8.5.0
+- MariaDB 10.6.24 and 11.4.9
+- Postgresql 14.20 and 17.7
+- OpenSSL 3.5.4 (Fixes CVE-2025-9230, CVE-2025-9231 and CVE-2025-9232)
+- Blackfire 1.92.50
+- Newrelic 12.2.0.27
+- PECL redis 6.3.0
+- PECL xdebug 3.4.7
+- Imagemagick 7.1.2.8
+- Libpng 1.6.51 (Fixes CVE-2025-64505)
+- Bind 9.18.42
 
 ## ZoneOS update (2025-10-24)
 
