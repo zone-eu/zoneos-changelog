@@ -1,3 +1,73 @@
+## ZoneOS update (2025-11-22)
+
+  * ** Nodejs 24.11.1 (Major upgrade!)**
+  * ** Redis 8.2.3 (Major upgrade!)**
+  * PHP 8.3.28, 8.4.15 and 8.5.0
+  * MariaDB 10.6.24 and 11.4.9
+  * Postgresql 14.20 and 17.7
+  * OpenSSL 3.5.4 (Fixes CVE-2025-9230, CVE-2025-9231 and CVE-2025-9232)
+  * Blackfire 1.92.50
+  * Newrelic 12.2.0.27
+  * PECL redis 6.3.0
+  * PECL xdebug 3.4.7
+  * Imagemagick 7.1.2.8
+  * Libpng 1.6.51 (Fixes CVE-2025-64505)
+  * Bind 9.18.42
+
+## ZoneOS update (2025-10-24)
+
+  * MySQL 8.0.44 and 8.4.7
+  * PHP 8.3.27, 8.4.14 and 8.5.0-rc3
+  * Redis 7.4.6 (Fixes CVE-2025-49844, CVE-2025-46817, CVE-2025-46818, CVE-2025-46819)
+  * Blackfire 1.92.46
+  * Ioncube 15.0.0
+  * PECL mailparse 3.1.9
+  * PECL memcached 3.4.0
+  * PECL mongodb 2.1.4
+  * PECL xdebug 3.4.6
+  * Sourceguardian 16.0.4
+  * Imagemagick 7.1.2.7
+  * Bind 9.18.41
+
+## ZoneOS update (2025-09-29)
+
+  * PHP 8.3.26, 8.4.13 and 8.5.0-rc1
+  * Nodejs 22.20.0
+
+## ZoneOS 25.09.00
+
+  * PHP 8.3.25 and 8.4.12
+  * MariaDB 10.6.21 and 11.4.8
+
+<details>
+  <summary>Detailed list of software version changes</summary>
+
+  ### Changes
+  * app-misc/ca-certificates 3.110 -> 3.116
+  * app-text/ghostscript-gpl 10.05.0 -> 10.05.1
+  * dev-db/mariadb 10.6.21 -> 10.6.23
+  * dev-db/mariadb 11.4.7 -> 11.4.8
+  * dev-db/postgresql 17.4 -> 17.6
+  * dev-db/redis 7.4.1 -> 7.4.5
+  * dev-lang/php 8.3.20 -> 8.3.25
+  * dev-lang/php 8.4.6 -> 8.4.12
+  * dev-libs/openssl 3.5.1 -> 3.5.2
+  * dev-php/blackfire 1.92.32 -> 1.92.42
+  * dev-php/igbinary 3.2.6-r1 -> 3.2.15
+  * dev-php/ioncube 14.4.0 -> 14.4.1
+  * dev-php/maxminddb 1.12.0 -> 1.12.1
+  * dev-php/newrelic 11.10.0.24 -> 12.1.0.26
+  * dev-php/pecl-apcu 5.1.24 -> 5.1.27
+  * dev-php/pecl-brotli 0.16.0 -> 0.18.2
+  * dev-php/pecl-gnupg 1.5.1-r1 -> 1.5.4
+  * dev-php/pecl-mongodb 2.0.0 -> 2.1.1
+  * dev-php/pecl-xdebug 3.4.2 -> 3.4.5
+  * dev-php/pecl-yaml 2.2.4 -> 2.2.5
+  * media-gfx/imagemagick 7.1.1.47 -> 7.1.2.3
+  * net-dns/bind 9.18.36 -> 9.18.39
+  * www-apache/mod_auth_openidc 2.4.13.2 -> 2.4.17.1
+</details>
+
 ## ZoneOS update (2025-08-01)
 
   * PHP 8.3.24 and 8.4.11
