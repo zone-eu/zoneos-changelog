@@ -1,7 +1,7 @@
 ## ZoneOS update (2025-11-22)
 
-- ** Nodejs 24.11.1 (Major upgrade!)**
-- ** Redis 8.2.3 (Major upgrade!)**
+- **Nodejs 24.11.1 (Major upgrade!)**
+- **Redis 8.2.3 (Major upgrade!)**
 - PHP 8.3.28, 8.4.15 and 8.5.0
 - MariaDB 10.6.24 and 11.4.9
 - Postgresql 14.20 and 17.7
