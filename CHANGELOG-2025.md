@@ -1,3 +1,11 @@
+## ZoneOS update (2025-12-19)
+
+- PHP 8.1.34, 8.2.30, 8.3.29, 8.4.16 and 8.5.1 (Fixes CVE-2025-14177, CVE-2025-14178, CVE-2025-14180)
+- Python 3.11.14, 3.13.11 (Fixes CVE-2025-12084, CVE-2025-59375)
+- Apache 2.4.66 (Fixes CVE-2025-55753, CVE-2025-58098, CVE-2025-59775, CVE-2025-65082, CVE-2025-66200)
+- Libpng 1.6.53 (Fixes CVE-2025-66293)
+- C-ares 1.34.6 (Fixes CVE-2025-62408)
+
 ## ZoneOS update (2025-11-22)
 
 - **Nodejs 24.11.1 (Major upgrade!)**
@@ -11,7 +19,7 @@
 - PECL redis 6.3.0
 - PECL xdebug 3.4.7
 - Imagemagick 7.1.2.8
-- Libpng 1.6.51 (Fixes CVE-2025-64505)
+- Libpng 1.6.51 (Fixes CVE-2025-64505, CVE-2025-64506, CVE-2025-64720, CVE-2025-65018)
 - Bind 9.18.42
 
 ## ZoneOS update (2025-10-24)
