@@ -1,3 +1,10 @@
+## ZoneOS update (2026-01-30)
+
+- Vim 9.1.1652 (Fixes CVE-2025-53905, CVE-2025-53906)
+- OpenSSL 3.5.5 (Fixes many CVE-s - https://openssl-library.org/news/vulnerabilities/)
+- ModSecurity 2.9.12 (Fixes CVE-2025-54571)
+- Added Ripgrep 14.1.1
+
 ## ZoneOS update (2026-01-16)
 
 - Nodejs 24.13.0 (Fixes CVE-2025-59465, CVE-2025-55132, CVE-2025-55130, CVE-2025-59466, CVE-2025-55131, CVE-2026-21637)
