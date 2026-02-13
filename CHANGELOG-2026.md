@@ -1,3 +1,15 @@
+## ZoneOS update (2026-02-13)
+
+- MariaDB 10.6.25, 11.4.10 and 11.8.6
+- MySQL 8.0.45 and 8.4.8
+- PHP 8.4.18 and 8.5.3
+- Blackfire 1.92.60
+- Newrelic 12.5.0.30
+- PECL Mongodb 2.1.8
+- NodeJS 24.13.1
+- Libpng 1.6.55 (Fixes CVE-2026-25646)
+- Rsync 3.4.1
+
 ## ZoneOS update (2026-01-30)
 
 - Vim 9.1.1652 (Fixes CVE-2025-53905, CVE-2025-53906)
