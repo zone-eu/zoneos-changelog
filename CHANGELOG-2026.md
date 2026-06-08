@@ -28,6 +28,8 @@
 
 <details>
   <summary>Detailed list of software version changes</summary>
+
+  ### Changes
   * app-accessibility/at-spi2-core 2.52.0 -> 2.56.5
   * app-admin/rsyslog 8.2404.0-r3 -> 8.2602.0
   * app-antivirus/clamav 1.4.3 -> 1.5.2
