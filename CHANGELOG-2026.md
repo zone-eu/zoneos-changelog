@@ -1,3 +1,9 @@
+## ZoneOS 26.08.10
+
+- Kernel 6.18.44
+- Nodejs 24.19.0
+- OpenSSH 10.5_p1
+
 ## ZoneOS 26.08.00
 
 - Kernel 6.18.41
